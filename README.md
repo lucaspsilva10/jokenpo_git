@@ -1,3 +1,10 @@
+Integrantes: Giuliano Muscari Campra PC3018318
+             Tiago Gimenes Scarpelin PC3020703
+             Guilhermee Campeon PC3030768
+             Lucas Patricio da Silva PC3010147
+             Murilo Santos Graciano PC3028097
+
+
 # Jokenpô com Visão Computacional
 
 Este é um projeto de um jogo de **Jokenpô (Pedra, Papel e Tesoura)** utilizando a biblioteca OpenCV e um modelo de detecção de gestos treinado com YOLOv8.
